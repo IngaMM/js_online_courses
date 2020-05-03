@@ -10,7 +10,8 @@ html {
   height: 100vh;
 }
 
-.container-checkout {
+.container-checkout,
+.container-selection {
   min-height: 100vh;
 }
 

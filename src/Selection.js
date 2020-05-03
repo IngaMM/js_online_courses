@@ -11,7 +11,7 @@ function Selection(props) {
   });
 
   return (
-    <div className="container-fluid text-center">
+    <div className="container-fluid text-center container-selection">
       <div class="row">
         <div class="col-sm-12 my-auto">
           <h1>Select your online courses</h1>

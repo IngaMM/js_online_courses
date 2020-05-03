@@ -8,6 +8,8 @@ Instructions
 2. Run yarn install
 3. Run yarn start: http://localhost:3000/ will open in a browser
 
+(Before deployment run yarn build)
+
 Discussion
 I used the following technologies: React with hooks and routes, HTML, CSS with Bootstrap.
 
