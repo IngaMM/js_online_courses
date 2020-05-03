@@ -13,7 +13,7 @@ I used the following technologies: React with hooks and routes, HTML, CSS with B
 
 In this app one can select courses from a list. The list is searchable. The selected courses are shown in a summary.
 
-A live version of this app can be found at...
+A live version of this app can be found at https://floating-everglades-42106.herokuapp.com/
 
 Requirements
 yarn
