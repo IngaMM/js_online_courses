@@ -1,0 +1,64 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.container-welcome,
+.container-confirmation {
+  height: 100vh;
+}
+
+.container-checkout {
+  min-height: 100vh;
+}
+
+.container-fluid {
+  background: url("./background.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.button-selection {
+  margin-top: 30px;
+}
+
+.button-checkout,
+.button-reset,
+.button-confirmation,
+.button-mod {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.button-confirmation,
+.button-mod {
+  margin-top: 10px;
+}
+
+.table {
+  color: white;
+  margin-top: 25px;
+}
+
+.table-row {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.table-selection {
+  background-color: #3d4849;
+  opacity: 0.8;
+  border-radius: 5px;
+}
+
+.categoryRow,
+.table-header,
+.summaryRow {
+  font-weight: bold;
+  font-size: 20px;
+}
