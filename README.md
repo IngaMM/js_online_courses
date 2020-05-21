@@ -11,11 +11,11 @@ Instructions
 (Before deployment run yarn build)
 
 Discussion
-I used the following technologies: React with hooks and routes, HTML, CSS with Bootstrap.
+I used the following technologies: React, HTML, CSS.
 
-In this app one can select courses from a list. The list is searchable. The selected courses are shown in a summary.
+In this app the user can select courses from a list. It is for demonstration purposes only. No real payment is involved. The list is searchable and filterable. At the bottom of the list the cumulative hours and costs of the selected courses are shown. The selected courses are also shown in a summary on the next page. The app uses React with hooks and routes and is fully responsive so that it can be viewed on screens of all sizes. Most of the styling is done with Bootstrap.
 
-A live version of this app can be found at https://floating-everglades-42106.herokuapp.com/
+A live version of this app can be found at https://online-courses22.herokuapp.com/
 
 Requirements
 yarn
